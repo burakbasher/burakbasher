@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Bugra Burak Baser</h1>
+<h1 align="center">Hi! 👋 I'm Bugra Burak Baser</h1>
 <h3 align="center">Computer engineering student passionate about web development, real-time systems and practical AI applications</h3>
 
 ---
