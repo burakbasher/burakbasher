@@ -50,17 +50,32 @@
 
 # 🚀 Featured Projects
 
-### 🎯 Real-Time Anomaly Detection System  
-Live video stream analysis with anomaly flagging  
-Built with: `Flask`, `OpenCV`, `YOLOv9`, `WebSocket`, `MongoDB`
 
-### 🧠 Agriculture Field Segmentation  
-Semantic segmentation using `UNet` and `DeepLabV3+`  
-Stacked predictions and RGB+NIR input optimization
+## 🚀 Featured Projects
 
-### 🩺 Radiology Report Assistant  
-AI-based segmentation system with a user-facing web app  
-Built with: `React`, `Spring Boot`, `TensorFlow`, `CNN`
+### 🎯 Gökİzci: Anomaly Detection in 3D Video Streams  
+**TÜBİTAK 2209B Funded Graduation Project**  
+AI-powered system for detecting anomalies in video streams using 3D representations.  
+- Built with: `Python`, `TensorFlow`, `Keras`, `CNN`, `Transformer`, `GAN`, `React.js`, `Next.js`, `Flask`, `MongoDB`  
+- Achieved: **80.1% ROC AUC**, **97.4% Precision**, **67.3% Recall**, **79.7% Accuracy**
+
+---
+
+### 🔍 X-Ray Object Detection System  
+**ROKETSAN Internship Project**  
+Web-based asynchronous X-ray object detection system with model comparison and optimization.  
+- Built with: `Next.js`, `MongoDB`, `Python`, `YOLOv9`  
+- Compared `YOLOv5`, `YOLOv8`, and `YOLOv9`  
+- Achieved: **0.954 mAP50** with `YOLOv9`
+
+---
+
+### 🤖 2D Room Mapping Robot  
+**CENG318 Microprocessors Final Project**  
+A semi-autonomous robot that uses LiDAR for real-time 2D mapping and target selection via Android mobile app.  
+- Built with: `C/C++`, `Java`, `Android Studio`  
+- Features: Near real-time visualization, basic autonomy
+
 
 ---
 
